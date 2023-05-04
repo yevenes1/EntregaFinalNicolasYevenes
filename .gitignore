@@ -2,4 +2,7 @@ node_modules/
 *.map
 *.log
 *.vsc
-
+*.ai
+*.psd
+*.vsc
+asd.php
