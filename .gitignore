@@ -4,3 +4,4 @@ node_modules/
 *.ai
 *.psd
 asd.php
+.vscode
