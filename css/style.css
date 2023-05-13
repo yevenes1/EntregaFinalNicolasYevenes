@@ -63,10 +63,14 @@ footer{
 .card {
   border: 0 !important;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  width:216px;
+  width: 240px;
   height: 730px;
   align-items: center;
   text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 2%;
+  cursor: pointer;
 }
 
 .card-tittle {

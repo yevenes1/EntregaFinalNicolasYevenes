@@ -7,6 +7,7 @@
   margin: 0;
 }
 
+
 footer{
   padding: 30px;
   display: flex;
@@ -160,7 +161,6 @@ textarea.input{
   color: #8f50ec;
   cursor: pointer;
   font-weight: 500;
-
 }
 @media(max-width:850px){
   .item{
@@ -191,7 +191,7 @@ textarea.input{
     text-align: center;
   }
   .btn{
-    width: 20%;
+    width: 30%;
     height: 40px;
     font-size: 12px;
   }
