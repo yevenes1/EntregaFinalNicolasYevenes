@@ -7,10 +7,6 @@
   margin: 0;
 }
 
-body {
-  margin: 0em;
-  font-family: "Dosis", sans-serif;
-}
 footer{
   padding: 30px;
   display: flex;
