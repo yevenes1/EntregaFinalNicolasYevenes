@@ -1,0 +1,10 @@
+User-Agent: Googlebot
+Disallow: /asd-php
+
+User-Agent: Googlebot
+Disallow: /fuentes
+
+
+User-Agent: Googlebot
+Disallow: /webmail
+
