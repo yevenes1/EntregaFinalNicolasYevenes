@@ -1,6 +1,6 @@
 node_modules/
+*.vsc
 *.map
 *.log
-*.ai
+*.ia
 *.psd
-asd.php
